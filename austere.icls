@@ -10,17 +10,19 @@
     <option name="EDITOR_FONT_SIZE" value="40" />
   </font>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="303030" />
+    <option name="ADDED_LINES_COLOR" value="dddddd" />
     <option name="ANNOTATIONS_COLOR" value="303030" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="303030" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="4183d7" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
+    <option name="DELETED_LINES_COLOR" value="666666" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="185f36" />
     <option name="GUTTER_BACKGROUND" value="f5f5f5" />
     <option name="LINE_NUMBERS_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="e6e6e6" />
-    <option name="MODIFIED_LINES_COLOR" value="bccff9" />
+    <option name="MODIFIED_LINES_COLOR" value="dddddd" />
     <option name="NOTIFICATION_BACKGROUND" value="fafafa" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="e6e6e6" />
@@ -30,6 +32,7 @@
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="cccccc" />
     <option name="WHITESPACES" value="" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="dddddd" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
