@@ -3,11 +3,11 @@
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="40" />
+    <option name="EDITOR_FONT_SIZE" value="38" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="40" />
+    <option name="EDITOR_FONT_SIZE" value="38" />
   </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="dddddd" />
@@ -20,6 +20,7 @@
     <option name="DELETED_LINES_COLOR" value="666666" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="185f36" />
     <option name="GUTTER_BACKGROUND" value="f5f5f5" />
+    <option name="INDENT_GUIDE" value="cccccc" />
     <option name="LINE_NUMBERS_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="e6e6e6" />
     <option name="MODIFIED_LINES_COLOR" value="dddddd" />
@@ -30,7 +31,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="4183d7" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="cccccc" />
+    <option name="TEARLINE_COLOR" value="bbbbbb" />
     <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="dddddd" />
   </colors>
