@@ -1,14 +1,5 @@
 <scheme name="austere" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="2.0" />
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="38" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="38" />
-  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="dddddd" />
     <option name="ANNOTATIONS_COLOR" value="303030" />
@@ -19,7 +10,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
     <option name="DELETED_LINES_COLOR" value="666666" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="185f36" />
-    <option name="GUTTER_BACKGROUND" value="f5f5f5" />
+    <option name="GUTTER_BACKGROUND" value="fafafa" />
     <option name="INDENT_GUIDE" value="cccccc" />
     <option name="LINE_NUMBERS_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="e6e6e6" />
@@ -784,7 +775,7 @@
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="BACKGROUND" value="eef8e6" />
+        <option name="BACKGROUND" value="f1f5f0" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -816,23 +807,23 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="FOREGROUND" value="e0e0e0" />
-        <option name="BACKGROUND" value="e0e0e0" />
-        <option name="ERROR_STRIPE_COLOR" value="e0e0e0" />
+        <option name="FOREGROUND" value="eaeaea" />
+        <option name="BACKGROUND" value="eeeeee" />
+        <option name="ERROR_STRIPE_COLOR" value="eeeeee" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="FOREGROUND" value="e4e9ee" />
-        <option name="BACKGROUND" value="e6ebf0" />
-        <option name="ERROR_STRIPE_COLOR" value="e6ebf0" />
+        <option name="FOREGROUND" value="dee8f2" />
+        <option name="BACKGROUND" value="e1ebf5" />
+        <option name="ERROR_STRIPE_COLOR" value="e1ebf5" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="e4e9ee" />
-        <option name="BACKGROUND" value="e6ebf0" />
-        <option name="ERROR_STRIPE_COLOR" value="e6ebf0" />
+        <option name="FOREGROUND" value="dee8f2" />
+        <option name="BACKGROUND" value="e1ebf5" />
+        <option name="ERROR_STRIPE_COLOR" value="e1ebf5" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">
@@ -1193,7 +1184,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="eef8e6" />
+        <option name="BACKGROUND" value="f1f5f0" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
