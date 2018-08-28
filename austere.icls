@@ -1,7 +1,7 @@
 <scheme name="austere" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="dddddd" />
+    <option name="ADDED_LINES_COLOR" value="e1ebf5" />
     <option name="ANNOTATIONS_COLOR" value="303030" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="303030" />
     <option name="BORDER_LINES_COLOR" value="" />
@@ -14,7 +14,7 @@
     <option name="INDENT_GUIDE" value="cccccc" />
     <option name="LINE_NUMBERS_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="e6e6e6" />
-    <option name="MODIFIED_LINES_COLOR" value="dddddd" />
+    <option name="MODIFIED_LINES_COLOR" value="e1ebf5" />
     <option name="NOTIFICATION_BACKGROUND" value="fafafa" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="e6e6e6" />
@@ -24,7 +24,7 @@
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="bbbbbb" />
     <option name="WHITESPACES" value="" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="dddddd" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e1ebf5" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
