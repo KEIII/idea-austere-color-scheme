@@ -1,5 +1,14 @@
 <scheme name="austere" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="2.0" />
   <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="38" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="38" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="e1ebf5" />
     <option name="ANNOTATIONS_COLOR" value="303030" />
@@ -16,6 +25,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="e6e6e6" />
     <option name="MODIFIED_LINES_COLOR" value="e1ebf5" />
     <option name="NOTIFICATION_BACKGROUND" value="fafafa" />
+    <option name="READONLY_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="e6e6e6" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
@@ -793,8 +803,8 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="303030" />
+        <option name="ERROR_STRIPE_COLOR" value="303030" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -866,8 +876,8 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="FOREGROUND" value="d2527f" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="d2527f" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="ECMAL4.AL4.LOCAL_VARIABLE">
@@ -983,7 +993,6 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="d2527f" />
         <option name="ERROR_STRIPE_COLOR" value="d2527f" />
         <option name="EFFECT_TYPE" value="2" />
@@ -1017,8 +1026,8 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="FOREGROUND" value="d2527f" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="d2527f" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1176,7 +1185,6 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="303030" />
         <option name="ERROR_STRIPE_COLOR" value="303030" />
         <option name="EFFECT_TYPE" value="2" />
@@ -1933,8 +1941,8 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="303030" />
+        <option name="ERROR_STRIPE_COLOR" value="303030" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1954,8 +1962,10 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="999999" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="888888" />
+        <option name="EFFECT_COLOR" value="888888" />
+        <option name="ERROR_STRIPE_COLOR" value="878787" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
@@ -2921,7 +2931,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d2527f" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TS.PRIMITIVE.TYPES">
@@ -2955,7 +2965,6 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="5d994d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -3003,6 +3012,14 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="Unused entry">
+      <value>
+        <option name="FOREGROUND" value="888888" />
+        <option name="EFFECT_COLOR" value="888888" />
+        <option name="ERROR_STRIPE_COLOR" value="888888" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="Valid escape in string">
       <value>
         <option name="FOREGROUND" value="303030" />
@@ -3017,8 +3034,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="303030" />
+        <option name="ERROR_STRIPE_COLOR" value="303030" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3035,8 +3052,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d2527f" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="303030" />
+        <option name="ERROR_STRIPE_COLOR" value="303030" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="Wrong number">
