@@ -33,7 +33,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="e6e6e6" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="4183d7" />
+    <option name="SELECTION_BACKGROUND" value="e6f1ff" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="bbbbbb" />
     <option name="WHITESPACES" value="" />
