@@ -815,16 +815,16 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="FOREGROUND" value="e1ebf5" />
-        <option name="BACKGROUND" value="edf4fa" />
-        <option name="ERROR_STRIPE_COLOR" value="e1ebf5" />
+        <option name="FOREGROUND" value="ebf0f5" />
+        <option name="BACKGROUND" value="dce9f5" />
+        <option name="ERROR_STRIPE_COLOR" value="dce9f5" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="edf4fa" />
-        <option name="BACKGROUND" value="e1ebf5" />
-        <option name="ERROR_STRIPE_COLOR" value="e1ebf5" />
+        <option name="FOREGROUND" value="ebf0f5" />
+        <option name="BACKGROUND" value="dce9f5" />
+        <option name="ERROR_STRIPE_COLOR" value="dce9f5" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">
