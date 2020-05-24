@@ -2,5 +2,5 @@
 
 Austere color scheme for jetbrains tools like PhpStorm, WebStorm
 
-![typescript](./screenshots/typescript.png?raw=true)
+![example](./example.png?raw=true)
 
