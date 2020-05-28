@@ -504,7 +504,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -696,17 +696,17 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -728,7 +728,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -743,7 +743,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -760,13 +760,13 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -774,7 +774,7 @@
     <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -1099,7 +1099,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1131,12 +1131,12 @@
     </option>
     <option name="IGNORE.COMMENT">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="IGNORE.HEADER">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="IGNORE.NEGATION">
@@ -1146,7 +1146,7 @@
     </option>
     <option name="IGNORE.SECTION">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="IGNORE.SLASH">
@@ -3040,7 +3040,7 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="285828" />
+        <option name="FOREGROUND" value="575757" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
