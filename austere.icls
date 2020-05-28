@@ -504,7 +504,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="696969" />
+        <option name="FOREGROUND" value="285828" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -754,7 +754,9 @@
     </option>
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="694a12" />
+      </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
@@ -779,7 +781,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="694a12" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -1097,16 +1099,19 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="696969" />
+        <option name="FOREGROUND" value="285828" />
       </value>
     </option>
-    <option name="HTML_TAG">
-      <value>
-        <option name="FOREGROUND" value="696969" />
-      </value>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value />
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value />
     </option>
     <option name="HTML_TAG_NAME">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="HYPERLINK_ATTRIBUTES">
@@ -2897,7 +2902,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff5b57" />
+        <option name="BACKGROUND" value="ffb4b3" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -3035,7 +3040,15 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="696969" />
+        <option name="FOREGROUND" value="285828" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value />
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
@@ -3044,12 +3057,15 @@
       </value>
     </option>
     <option name="XML_TAG">
-      <value>
-        <option name="FOREGROUND" value="696969" />
-      </value>
+      <value />
+    </option>
+    <option name="XML_TAG_DATA">
+      <value />
     </option>
     <option name="XML_TAG_NAME">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="XPATH.FUNCTION">
       <value>
