@@ -6,17 +6,17 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="4183d7" />
     <option name="CARET_ROW_COLOR" value="f5f5f5" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="ffffff" />
     <option name="DELETED_LINES_COLOR" value="666666" />
     <option name="DOC_COMMENT_GUIDE" value="" />
     <option name="DOC_COMMENT_LINK" value="" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="185f36" />
-    <option name="GUTTER_BACKGROUND" value="fafafa" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="cccccc" />
     <option name="LINE_NUMBERS_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="e6e6e6" />
     <option name="MODIFIED_LINES_COLOR" value="e1ebf5" />
-    <option name="NOTIFICATION_BACKGROUND" value="fafafa" />
+    <option name="NOTIFICATION_BACKGROUND" value="ffffff" />
     <option name="READONLY_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="e6e6e6" />
@@ -1113,7 +1113,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -2891,7 +2890,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fafafa" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -2903,7 +2902,6 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffb4b3" />
-        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
@@ -2966,7 +2964,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fafafa" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="d2527f" />
       </value>
     </option>
@@ -3098,7 +3096,6 @@
         <option name="FOREGROUND" value="1e824c" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="bemhtml.bem.error">
       <value>
         <option name="EFFECT_COLOR" value="d2527f" />
@@ -3229,9 +3226,6 @@
         <option name="FOREGROUND" value="876084" />
       </value>
     </option>
-    <option name="org.rust.MACRO" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="org.rust.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="876084" />
