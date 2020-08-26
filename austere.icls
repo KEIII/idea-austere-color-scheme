@@ -2903,8 +2903,25 @@
         <option name="BACKGROUND" value="ffb4b3" />
       </value>
     </option>
+    <option name="TS.CLASS">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.INTERFACE">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.PRIMITIVE.TYPES">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="TS.TYPE_PARAMETER">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="TWIG_BACKGROUND">
       <value />
