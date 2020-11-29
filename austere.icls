@@ -10,7 +10,6 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="4183d7" />
     <option name="CARET_ROW_COLOR" value="f2f8ff" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="666666" />
     <option name="DOC_COMMENT_GUIDE" value="" />
     <option name="DOC_COMMENT_LINK" value="" />
@@ -382,131 +381,6 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="1fafff" />
-        <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLUE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="1fafff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_CYAN_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="666666" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff2b2b" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_GRAY_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="aaaaaa" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff00" />
-        <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSOLE_GREEN_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff00" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff23ff" />
-        <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSOLE_MAGENTA_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff23ff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff2b2b" />
-        <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff2b2b" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_USER_INPUT">
-      <value>
-        <option name="FOREGROUND" value="aaaaaa" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffd500" />
-        <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffd500" />
-        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
@@ -1689,42 +1563,6 @@
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
-    <option name="LOG_DEBUG_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="LOG_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff2b2b" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="LOG_EXPIRED_ENTRY">
-      <value>
-        <option name="FOREGROUND" value="aaaaaa" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="LOG_INFO_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="1fafff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="LOG_VERBOSE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="LOG_WARNING_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffd500" />
-        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="LUA_BAD_CHARACTER">
