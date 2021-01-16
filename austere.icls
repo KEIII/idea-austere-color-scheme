@@ -1,8 +1,4 @@
 <scheme name="austere" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Iosevka SS09" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="e1ebf5" />
     <option name="ANNOTATIONS_COLOR" value="0" />
@@ -602,7 +598,7 @@
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -623,7 +619,7 @@
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -660,13 +656,13 @@
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="694a12" />
+        <option name="FOREGROUND" value="6c11" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -692,7 +688,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="694a12" />
+        <option name="FOREGROUND" value="6c11" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -1010,7 +1006,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="575757" />
+        <option name="FOREGROUND" value="6c11" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1018,11 +1014,14 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="41b1" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="8e44ad" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
+      <value />
+    </option>
+    <option name="HTML_TAG">
       <value />
     </option>
     <option name="HTML_TAG_NAME">
@@ -2806,8 +2805,25 @@
         <option name="BACKGROUND" value="ffb4b3" />
       </value>
     </option>
+    <option name="TS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="8e44ad" />
+      </value>
+    </option>
+    <option name="TS.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="8e44ad" />
+      </value>
+    </option>
+    <option name="TS.PRIMITIVE.TYPES">
+      <value>
+        <option name="FOREGROUND" value="8e44ad" />
+      </value>
+    </option>
     <option name="TS.TYPE_PARAMETER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="8e44ad" />
+      </value>
     </option>
     <option name="TWIG_BACKGROUND">
       <value />
@@ -2940,11 +2956,17 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="575757" />
+        <option name="FOREGROUND" value="6c11" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value />
+    </option>
+    <option name="XML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="8e44ad" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
     </option>
     <option name="XML_NS_PREFIX">
       <value>
@@ -2952,9 +2974,7 @@
       </value>
     </option>
     <option name="XML_PROLOGUE">
-      <value>
-        <option name="FOREGROUND" value="696969" />
-      </value>
+      <value />
     </option>
     <option name="XML_TAG">
       <value />
